@@ -1,6 +1,6 @@
 # git course
 
-git practice
+git practice python
 
 # this change is from feature
 
